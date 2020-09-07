@@ -6,3 +6,6 @@ Minecraftia is a [Better Discord](https://betterdiscord.net/home/) theme designe
 
 ## What it'll look Like
 <img src="https://github.com/ZaneDragonBorn/Minecraftia-BD-Theme/blob/master/Assets/Screenshot_11.jpg?raw=true">
+
+## Credits
+Credits to clearVision for the Original Theme.
