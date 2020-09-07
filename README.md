@@ -24,7 +24,7 @@ Minecraftia is a [Better Discord](https://betterdiscord.net/home/) theme designe
 **5.** Now enable the theme!
 
 </div>
-<div class="bg-yellow mb-2">
+<div class="text-orange mb-2">
   If The Font doesn't apply use the key Combination "Ctrl + R". THis will reload your Discord. The Font Should aplly with any other problems
 </div>
 
