@@ -1,8 +1,8 @@
-# Minecraftia-BD-Theme
-A Theme that tries to Make Discord More Minecrafty
+<!DOCTYPE html>
+<html>
 
-This theme is not 100% Complete and may not be. Just wait and see what Happens.
-***
-Credits too ClearVision Team for having the Theme ClearVision as the Defalt Template
-***
-This theme is not 100% Complete and may not be. Just wait and see what Happens.
+<body>
+Thanks for checking out the First MC Based Better Discord Theme!
+</body>
+
+</html>
