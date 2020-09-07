@@ -24,7 +24,7 @@ Minecraftia is a [Better Discord](https://betterdiscord.net/home/) theme designe
 **5.** Now enable the theme!
 
 ```
-  If The Font doesn't apply use the key Combination "Ctrl + R". THis will reload your Discord. The Font Should aplly with any other problems
+  If The Font doesn't apply use the key Combination `Ctrl + R`. This will reload your Discord. The Font Should aplly with any other problems
 ```
 
 ***
