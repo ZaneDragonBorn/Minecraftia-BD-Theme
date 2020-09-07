@@ -22,11 +22,9 @@ Minecraftia is a [Better Discord](https://betterdiscord.net/home/) theme designe
 **4.** After the Font has finished installing, Add the `Minecraftia.theme.css`
 
 **5.** Now enable the theme!
-
 ```
   If The Font doesn't apply use the key Combination `Ctrl + R`. This will reload your Discord. The Font Should aplly with any other problems
 ```
-
 ***
 ## Credits
 Credits to ClearVision for the Original Theme.
