@@ -6,14 +6,9 @@ Minecraftia is a [Better Discord](https://betterdiscord.net/home/) theme designe
 
 ***
 
-## Download Link below
-[![Image](https://github.com/ZaneDragonBorn/Minecraftia-BD-Theme/blob/master/Assets/download-button-new.png?raw=true)](https://www.dropbox.com/s/8x7cuyqro5kbgh8/Minecraftia%20Theme.zip?dl=1)
-
-***
-
 ## How to Install
 
-**1.** Download the Zip file (This should include The Font Installer and the Theme).
+**1.** Download the files (This should include The Font Installer and the Theme).
 
 **2.** Double click on the file `Minecraftia.ttf`
 
