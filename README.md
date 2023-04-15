@@ -1,5 +1,6 @@
 > # This theme is no longer being maintained since Febuary of 2021. All further fixes will be handled by the user.
-***
+
+
 # Minecraftia Theme!
 Minecraftia is a [Better Discord](https://betterdiscord.net/home/) theme designed to Make Discord feel like Minecraft. This is the First ever Minecraft to Discord theme!
 ***
